@@ -1,5 +1,5 @@
 /* your code here */
-.container{
+.product{
 	width:800px;;
 	height:550px;
 	border:1px solid green;
@@ -45,7 +45,7 @@ button{
 	width:200px;
 	margin-left:-40px;
 }
-.item1{
+.product_photo{
 	width:280px;
 	margin:65px auto;
 	margin-left:70px;
@@ -53,12 +53,15 @@ button{
 	z-index:2;
 }
 
-.top{
+.photo-container{
 	width:280px;
 	height:240px;
 	background-color:rgb(186,235,72);
 	border-top-left-radius:10px;
 	border-top-right-radius:10px;
+}
+.photo-main{
+	
 }
 .bottom{
 	width:280px;
@@ -68,7 +71,13 @@ button{
 	border-bottom-right-radius:10px;
 	background-color:rgb(255,255,255);
 }
-.list{
+.photo-main > img{
+	
+}
+.photo-album>ul>li>img{
+	
+}
+.photo-album{
 	list-style-type:none;
 	display:flex;
 	justify-content:center;
