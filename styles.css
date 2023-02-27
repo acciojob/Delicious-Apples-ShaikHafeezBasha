@@ -6,7 +6,9 @@
 	background-color:rgb(16,227,127);
 	display:flex;
 }
-
+.product_photo{
+	
+}
 .price{
 	color:red;
 	font-size:30px;
@@ -77,7 +79,7 @@ button{
 .photo-album>ul>li>img{
 	
 }
-.photo-album{
+.photo-album1{
 	list-style-type:none;
 	display:flex;
 	justify-content:center;
