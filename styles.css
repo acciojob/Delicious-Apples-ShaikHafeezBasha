@@ -9,6 +9,9 @@
 .product_photo{
 	
 }
+.variant{
+	
+}
 .price{
 	color:red;
 	font-size:30px;
@@ -47,7 +50,7 @@ button{
 	width:200px;
 	margin-left:-40px;
 }
-.product_photo{
+.product__photo{
 	width:280px;
 	margin:65px auto;
 	margin-left:70px;
@@ -77,6 +80,9 @@ button{
 	
 }
 .photo-album>ul>li>img{
+	
+}
+.photo-album{
 	
 }
 .photo-album1{
