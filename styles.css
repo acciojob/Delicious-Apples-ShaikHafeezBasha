@@ -57,7 +57,9 @@ button{
 	border-radius:10px;
 	z-index:2;
 }
-
+.variant>ul>li>img{
+	
+}
 .photo-container{
 	width:280px;
 	height:240px;
